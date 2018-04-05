@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: b1d6768f69aeda447bac68e23b1195bd
+timeCreated: 1522208021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: l_back1
+    100002: l_back2
+    100004: l_back3
+    100006: l_back4
+    100008: l_backIK
+    100010: l_bmid1
+    100012: l_bmid2
+    100014: l_bmid3
+    100016: l_bmid4
+    100018: l_bmidIK
+    100020: l_fmid1
+    100022: l_fmid2
+    100024: l_fmid3
+    100026: l_fmid4
+    100028: l_fmidIK
+    100030: l_front1
+    100032: l_front2
+    100034: l_front3
+    100036: l_front4
+    100038: l_frontIK
+    100040: l_legs
+    100042: n0b0_m0
+    100044: n1b1_m1
+    100046: r_back1
+    100048: r_back2
+    100050: r_back3
+    100052: r_back4
+    100054: r_backIK
+    100056: r_bmid1
+    100058: r_bmid2
+    100060: r_bmid3
+    100062: r_bmid4
+    100064: r_bmidIK
+    100066: r_fmid1
+    100068: r_fmid2
+    100070: r_fmid3
+    100072: r_fmid4
+    100074: r_fmidIK
+    100076: r_front1
+    100078: r_front2
+    100080: r_front3
+    100082: r_front4
+    100084: r_frontIK
+    100086: r_legs
+    100088: root
+    100090: //RootNode
+    100092: thorax
+    100094: thorax_base
+    400000: l_back1
+    400002: l_back2
+    400004: l_back3
+    400006: l_back4
+    400008: l_backIK
+    400010: l_bmid1
+    400012: l_bmid2
+    400014: l_bmid3
+    400016: l_bmid4
+    400018: l_bmidIK
+    400020: l_fmid1
+    400022: l_fmid2
+    400024: l_fmid3
+    400026: l_fmid4
+    400028: l_fmidIK
+    400030: l_front1
+    400032: l_front2
+    400034: l_front3
+    400036: l_front4
+    400038: l_frontIK
+    400040: l_legs
+    400042: n0b0_m0
+    400044: n1b1_m1
+    400046: r_back1
+    400048: r_back2
+    400050: r_back3
+    400052: r_back4
+    400054: r_backIK
+    400056: r_bmid1
+    400058: r_bmid2
+    400060: r_bmid3
+    400062: r_bmid4
+    400064: r_bmidIK
+    400066: r_fmid1
+    400068: r_fmid2
+    400070: r_fmid3
+    400072: r_fmid4
+    400074: r_fmidIK
+    400076: r_front1
+    400078: r_front2
+    400080: r_front3
+    400082: r_front4
+    400084: r_frontIK
+    400086: r_legs
+    400088: root
+    400090: //RootNode
+    400092: thorax
+    400094: thorax_base
+    2100000: body
+    2100002: eyes
+    2300000: n1b1_m1
+    3300000: n1b1_m1
+    4300000: n0b0_m0
+    4300002: n1b1_m1
+    7400000: Walk
+    9500000: //RootNode
+    13700000: n0b0_m0
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
